@@ -1,0 +1,37 @@
+/* *{
+ /* universal seclector */
+    /* color:blue; */
+/* }  */
+
+
+header{
+    background-color: #f0ebeb;
+}
+section.my-articles{
+    background-color: #f2a9a9;
+}
+header p{
+    /* decendent selector */
+    color:red;
+}
+
+li a{
+    color: blue;
+}
+/* section.my-articles h2{
+    color: green;
+} */
+
+section.my-articles > h2{
+    color: green;
+/* direct selector */
+}
+h2+p{
+    color: orangered;
+}
+ul+p{
+    color: aqua;
+}
+section.my-articles h2+p{
+    color: red;
+}

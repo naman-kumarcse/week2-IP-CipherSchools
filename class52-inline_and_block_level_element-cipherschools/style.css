@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #444;
+    
+}
+h1,h2{
+    border: 2px solid #222;
+    /* width:500px; */
+    display: inline;
+    
+}  
+h1{
+    /* margin: 100px; */
+    /* padding: 100px; */
+}
+a{
+    border: 2px solid rgb(79, 25, 189);
+    /* height: 100px; */
+    /* width: 200px; */
+    /* width and height has no effect on inline elements */
+    /* margin:100px; */
+    /* no margin in top and bottom */
+    padding: 50px;
+    /* dont give padding in top and bottom */
+    display: block;
+     margin: 50px 10px;
+}
+

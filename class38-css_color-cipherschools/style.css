@@ -1,0 +1,13 @@
+h1{
+    /* color: rgb(255,0,255); */
+    color: #0eb05f;/*hex code value first 2 for red then green then blue*/
+    /* 1,2,3,4,5,6,7,8,9,a,b,c,d,e,f */
+    /* r=red,g=green,b=blue */
+    /* max value is 255 */
+    /* color: #676767; */
+    /* any two no. for grey*/
+    /* #ffffff for pure white */
+    /* #fff for white also */
+    /* #000 or #000000 for black */
+    background-color: #ff0000;
+}

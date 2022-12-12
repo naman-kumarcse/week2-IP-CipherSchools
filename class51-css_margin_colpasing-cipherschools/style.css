@@ -1,0 +1,15 @@
+ body{
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .box1,.box2{
+    border:2px solid #444;
+    padding: 10px;
+ }
+ .box1{
+    margin-bottom: 50px;
+ }
+ /* this is a total margin of 50px because of overlaping of margin(margin collapsing) */
+ .box2{
+    margin-top: 40px;
+ }

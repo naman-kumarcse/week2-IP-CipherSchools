@@ -1,0 +1,16 @@
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto:ital,wght@1,300&display=swap');
+ body{
+    font-family: 'Poppins', sans-serif;
+ }
+ .text-green{
+    color: rgba(4, 113, 4, 0.906);
+ }
+ .div1{
+    background-color: #676767;
+ }
+ .div2{
+    background-color: #cdcdcd;
+ }
+ .bg-light{
+    background-color: #00ffaa;
+ }
